@@ -16,7 +16,7 @@
             url: "OregonDuck_Roster.xml",
             dataType: "xml",
             success: function(xml) {
-             $(xml).find('CD').each(function(){
+             $(xml).find('Row').each(function(){
               t.row.add( [
                 $(this).find('Number').text(),
                 $(this).find('Name').text(),

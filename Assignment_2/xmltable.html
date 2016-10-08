@@ -1,0 +1,98 @@
+<!-- Source: http://ecis.seattleu.edu/lee/5315/jsonxml/xmltable.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- load jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <!-- load datatables js library -->
+  <script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+  <!-- link datatables css -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
+  <script type="text/javascript">
+    $(document).ready(function(){
+       var t = $('#chart').DataTable();
+       $.ajax({
+            type: "GET",
+            url: "OregonDuck_Roster.xml",
+            dataType: "xml",
+            success: function(xml) {
+             $(xml).find('CD').each(function(){
+              t.row.add( [
+                $(this).find('Number').text(),
+                $(this).find('Name').text(),
+                $(this).find('Category').text(),
+                $(this).find('Position').text(),
+                $(this).find('Height').text(),
+                $(this).find('Weight').text(),
+                $(this).find('Class').text(),
+                $(this).find('Hometown')
+              ] ).draw( false );
+             });
+            }
+        });
+      });
+  </script>
+</head>
+
+<body>
+  <table id="chart" class="display" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Position</th>
+            <th>Height</th>
+            <th>Weight</th>
+            <th>Class</th>
+            <th>Hometowm</th>
+        </tr>
+    </thead>
+
+    <tfoot>
+        <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Position</th>
+            <th>Height</th>
+            <th>Weight</th>
+            <th>Class</th>
+            <th>Hometowm</th>
+        </tr>
+    </tfoot>
+  </table>
+</body>
+</html>
+
+
+<!-- ############################ -->
+<!-- Written in JavaScript Sample -->
+<!-- This is NOT used in the HTML -->
+<!-- ############################ -->
+<script>
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+      myFunction(xmlhttp);
+    }
+  }
+  xmlhttp.open("GET", "OregonDuck_Roster.xml", true);
+  xmlhttp.send();
+}
+function myFunction(xml) {
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table="<tr><th>Number</th><th>Name</th></tr>";
+  var x = xmlDoc.getElementsByTagName("Roster");
+  for (i = 0; i <x.length; i++) {
+    table += "<tr><td>" +
+    x[i].getElementsByTagName("Number")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Roster")[0].childNodes[0].nodeValue +
+    "</td></tr>";
+  }
+  document.getElementById("demo").innerHTML = table;
+}
+</script>

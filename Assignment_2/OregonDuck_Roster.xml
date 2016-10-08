@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row>
+		<Number>1</Number>
+		<Name>Arrion Springs</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>205</Weight>
+		<Class>JR</Class>
+		<Hometown>San Antonio, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>2</Number>
+		<Name>Tyree Robinson</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-4</Height>
+		<Weight>205</Weight>
+		<Class>JR</Class>
+		<Hometown>San Diego, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>3</Number>
+		<Name>Jonah Moi</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-4</Height>
+		<Weight>250</Weight>
+		<Class>JR</Class>
+		<Hometown>Redlands, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>3</Number>
+		<Name>Terry Wilson Jr.</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>195</Weight>
+		<Class>FR</Class>
+		<Hometown>Del City, OK</Hometown>
+	</Row>
+	<Row>
+		<Number>4</Number>
+		<Name>Matt Mariota</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-2</Height>
+		<Weight>248</Weight>
+		<Class>FR</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>4</Number>
+		<Name>Alex Ofodile</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>200</Weight>
+		<Class>FR</Class>
+		<Hometown>Columbia, MO</Hometown>
+	</Row>
+	<Row>
+		<Number>5</Number>
+		<Name>Taj Griffin</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>5-10</Height>
+		<Weight>175</Weight>
+		<Class>SO</Class>
+		<Hometown>Powder Springs, GA</Hometown>
+	</Row>
+	<Row>
+		<Number>6</Number>
+		<Name>Charles Nelson</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>5-8</Height>
+		<Weight>170</Weight>
+		<Class>JR</Class>
+		<Hometown>Daytona Beach, FL</Hometown>
+	</Row>
+	<Row>
+		<Number>7</Number>
+		<Name>Darren Carrington II</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>195</Weight>
+		<Class>JR</Class>
+		<Hometown>San Diego, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>8</Number>
+		<Name>Reggie Daniels</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>205</Weight>
+		<Class>SR</Class>
+		<Hometown>Chandler, AZ</Hometown>
+	</Row>
+	<Row>
+		<Number>9</Number>
+		<Name>Mattrell McGraw</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-10</Height>
+		<Weight>185</Weight>
+		<Class>SO</Class>
+		<Hometown>New Orleans, LA</Hometown>
+	</Row>
+	<Row>
+		<Number>9</Number>
+		<Name>Dakota Prukop</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>195</Weight>
+		<Class>FR</Class>
+		<Hometown>Austin, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>10</Number>
+		<Name>Ty Griffin</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>200</Weight>
+		<Class>JR</Class>
+		<Hometown>Powder Springs, GA</Hometown>
+	</Row>
+	<Row>
+		<Number>10</Number>
+		<Name>Justin Herbert</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>215</Weight>
+		<Class>FR</Class>
+		<Hometown>Eugene, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>11</Number>
+		<Name>Justin Hollins</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-6</Height>
+		<Weight>230</Weight>
+		<Class>SO</Class>
+		<Hometown>Arlington, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>11</Number>
+		<Name>Travis Jonsen</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>194</Weight>
+		<Class>FR</Class>
+		<Hometown>Anaheim, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>12</Number>
+		<Name>Taylor Alie</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-0</Height>
+		<Weight>185</Weight>
+		<Class>JR</Class>
+		<Hometown>Eugene, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>12</Number>
+		<Name>Jhet Janis</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>190</Weight>
+		<Class>FR</Class>
+		<Hometown>Stevens, PA</Hometown>
+	</Row>
+	<Row>
+		<Number>13</Number>
+		<Name>Devon Allen</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-0</Height>
+		<Weight>185</Weight>
+		<Class>JR</Class>
+		<Hometown>Phoenix, AZ</Hometown>
+	</Row>
+	<Row>
+		<Number>14</Number>
+		<Name>Ugo Amadi</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-10</Height>
+		<Weight>185</Weight>
+		<Class>SO</Class>
+		<Hometown>Nashville, TN</Hometown>
+	</Row>
+	<Row>
+		<Number>15</Number>
+		<Name>Jalen Brown</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-1</Height>
+		<Weight>200</Weight>
+		<Class>SO</Class>
+		<Hometown>Phoenix, AZ</Hometown>
+	</Row>
+	<Row>
+		<Number>16</Number>
+		<Name>Dylan Kane</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>195</Weight>
+		<Class>FR</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>16</Number>
+		<Name>Ronnie Rust</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>210</Weight>
+		<Class>FR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>17</Number>
+		<Name>Jeff Lockie</Name>
+		<Position>QB</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>205</Weight>
+		<Class>SR</Class>
+		<Hometown>Alamo, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>17</Number>
+		<Name>Juwaan Williams</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>195</Weight>
+		<Class>JR</Class>
+		<Hometown>Tucker, GA</Hometown>
+	</Row>
+	<Row>
+		<Number>18</Number>
+		<Name>Jimmie Swain</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-2</Height>
+		<Weight>235</Weight>
+		<Class>JR</Class>
+		<Hometown>Olathe, KS</Hometown>
+	</Row>
+	<Row>
+		<Number>19</Number>
+		<Name>Fotu T. Leiato II</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>200</Weight>
+		<Class>SO</Class>
+		<Hometown>Steilacoom, WA</Hometown>
+	</Row>
+	<Row>
+		<Number>20</Number>
+		<Name>Tony Brooks-James</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>5-9</Height>
+		<Weight>185</Weight>
+		<Class>SO</Class>
+		<Hometown>Gainesville, FL</Hometown>
+	</Row>
+	<Row>
+		<Number>20</Number>
+		<Name>Jake Froehlich</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>220</Weight>
+		<Class>FR</Class>
+		<Hometown>Wolfeboro, NH</Hometown>
+	</Row>
+	<Row>
+		<Number>21</Number>
+		<Name>Royce Freeman</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>5-11</Height>
+		<Weight>230</Weight>
+		<Class>JR</Class>
+		<Hometown>Imperial, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>22</Number>
+		<Name>Jeff Bieber</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>195</Weight>
+		<Class>SO</Class>
+		<Hometown>Beaverton, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>22</Number>
+		<Name>Jihree Stewart</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>182</Weight>
+		<Class>FR</Class>
+		<Hometown>Corona, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>23</Number>
+		<Name>Malik Lovette</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>205</Weight>
+		<Class>FR</Class>
+		<Hometown>Redlands, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>24</Number>
+		<Name>Keith Simms</Name>
+		<Position>LB</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>235</Weight>
+		<Class>FR</Class>
+		<Hometown>Bethesda, MD</Hometown>
+	</Row>
+	<Row>
+		<Number>25</Number>
+		<Name>Brady Breeze</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>200</Weight>
+		<Class>FR</Class>
+		<Hometown>Medford, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>26</Number>
+		<Name>Khalil Oliver</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-0</Height>
+		<Weight>200</Weight>
+		<Class>SO</Class>
+		<Hometown>Meridian, ID</Hometown>
+	</Row>
+	<Row>
+		<Number>27</Number>
+		<Name>Jacob Breeland</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>221</Weight>
+		<Class>FR</Class>
+		<Hometown>Mission Viejo, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>28</Number>
+		<Name>Chayce Maday</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>5-11</Height>
+		<Weight>180</Weight>
+		<Class>SO</Class>
+		<Hometown>Corning, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>28</Number>
+		<Name>Johnny Ragin III</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>225</Weight>
+		<Class>SR</Class>
+		<Hometown>Wilsonville, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>29</Number>
+		<Name>Kani Benoit</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>6-0</Height>
+		<Weight>210</Weight>
+		<Class>JR</Class>
+		<Hometown>Phoenix, AZ</Hometown>
+	</Row>
+	<Row>
+		<Number>29</Number>
+		<Name>Justin Matias</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>160</Weight>
+		<Class>FR</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>31</Number>
+		<Name>Sean Killpatrick</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>205</Weight>
+		<Class>FR</Class>
+		<Hometown>Pearland, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>32</Number>
+		<Name>Eddie Heard</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>250</Weight>
+		<Class>JR</Class>
+		<Hometown>Oakland, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>33</Number>
+		<Name>Dexter Myers</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>188</Weight>
+		<Class>FR</Class>
+		<Hometown>Pasadena, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>33</Number>
+		<Name>Tristen Wallace</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>235</Weight>
+		<Class>FR</Class>
+		<Hometown>Desoto, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>34</Number>
+		<Name>Lane Roseberry</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>6-1</Height>
+		<Weight>230</Weight>
+		<Class>SR</Class>
+		<Hometown>Bly, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>34</Number>
+		<Name>La'Mar Winston Jr.</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>220</Weight>
+		<Class>FR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>35</Number>
+		<Name>Troy Dye</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-4</Height>
+		<Weight>210</Weight>
+		<Class>FR</Class>
+		<Hometown>Norco, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>36</Number>
+		<Name>Eric Briscoe Jr.</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>215</Weight>
+		<Class>FR</Class>
+		<Hometown>Yakima, WA</Hometown>
+	</Row>
+	<Row>
+		<Number>37</Number>
+		<Name>Michael Manns</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>180</Weight>
+		<Class>SR</Class>
+		<Hometown>Molalla, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>38</Number>
+		<Name>Ian Wheeler</Name>
+		<Position>P</Position>
+		<Category>Special Teams</Category>
+		<Height>6-0</Height>
+		<Weight>205</Weight>
+		<Class>JR</Class>
+		<Hometown>Demorest, GA</Hometown>
+	</Row>
+	<Row>
+		<Number>38</Number>
+		<Name>Jaren Zadlo</Name>
+		<Position>DB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>195</Weight>
+		<Class>FR</Class>
+		<Hometown>Ewa Beach, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>39</Number>
+		<Name>Kaulana Apelu</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>196</Weight>
+		<Class>SO</Class>
+		<Hometown>Aiea, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>39</Number>
+		<Name>Ryan Bay</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>230</Weight>
+		<Class>FR</Class>
+		<Hometown>Tigard, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>40</Number>
+		<Name>Zach Emerson</Name>
+		<Position>PK</Position>
+		<Category>Special Teams</Category>
+		<Height>6-2</Height>
+		<Weight>214</Weight>
+		<Class>FR</Class>
+		<Hometown>Bend, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>40</Number>
+		<Name>Taylor Stinson</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>235</Weight>
+		<Class>SO</Class>
+		<Hometown>Happy Valley, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>41</Number>
+		<Name>Jarret LaCoste</Name>
+		<Position>RB</Position>
+		<Category>Offense</Category>
+		<Height>5-11</Height>
+		<Weight>210</Weight>
+		<Class>SR</Class>
+		<Hometown>Albany, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>41</Number>
+		<Name>Aidan Schneider</Name>
+		<Position>PK</Position>
+		<Category>Special Teams</Category>
+		<Height>6-4</Height>
+		<Weight>235</Weight>
+		<Class>JR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>42</Number>
+		<Name>Cody Carriger</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-6</Height>
+		<Weight>240</Weight>
+		<Class>SR</Class>
+		<Hometown>Butte, MT</Hometown>
+	</Row>
+	<Row>
+		<Number>42</Number>
+		<Name>Blake Maimone</Name>
+		<Position>P</Position>
+		<Category>Special Teams</Category>
+		<Height>6-6</Height>
+		<Weight>213</Weight>
+		<Class>FR</Class>
+		<Hometown>Thousand Oaks, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>43</Number>
+		<Name>Brenden Schooler</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>190</Weight>
+		<Class>FR</Class>
+		<Hometown>Dana Point, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>44</Number>
+		<Name>Darrian Franklin</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>200</Weight>
+		<Class>FR</Class>
+		<Hometown>Downey, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>45</Number>
+		<Name>Gus Cumberlander</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-6</Height>
+		<Weight>260</Weight>
+		<Class>FR</Class>
+		<Hometown>Ellenwood, GA</Hometown>
+	</Row>
+	<Row>
+		<Number>46</Number>
+		<Name>Danny Mattingly</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-5</Height>
+		<Weight>245</Weight>
+		<Class>JR</Class>
+		<Hometown>Spokane, WA</Hometown>
+	</Row>
+	<Row>
+		<Number>47</Number>
+		<Name>Rex Manu</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>315</Weight>
+		<Class>SO</Class>
+		<Hometown>Mililani, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>48</Number>
+		<Name>Hunter Kampmoyer</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-4</Height>
+		<Weight>245</Weight>
+		<Class>FR</Class>
+		<Hometown>Bishop, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>49</Number>
+		<Name>Matt Wogan</Name>
+		<Position>PK</Position>
+		<Category>Special Teams</Category>
+		<Height>6-2</Height>
+		<Weight>210</Weight>
+		<Class>SR</Class>
+		<Hometown>Indian Trail, NC</Hometown>
+	</Row>
+	<Row>
+		<Number>50</Number>
+		<Name>Austin Maloata</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>305</Weight>
+		<Class>JR</Class>
+		<Hometown>Corona, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>51</Number>
+		<Name>Gary Baker</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-4</Height>
+		<Weight>298</Weight>
+		<Class>FR</Class>
+		<Hometown>Upland, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>52</Number>
+		<Name>Ivan Faulhaber</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-2</Height>
+		<Weight>224</Weight>
+		<Class>JR</Class>
+		<Hometown>Eugene, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>53</Number>
+		<Name>Blake Rugraff</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-2</Height>
+		<Weight>215</Weight>
+		<Class>FR</Class>
+		<Hometown>St. Charles, MO</Hometown>
+	</Row>
+	<Row>
+		<Number>54</Number>
+		<Name>De'Quan McDowell</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>6-1</Height>
+		<Weight>203</Weight>
+		<Class>SR</Class>
+		<Hometown>Marshalltown, IA</Hometown>
+	</Row>
+	<Row>
+		<Number>54</Number>
+		<Name>Calvin Throckmorton</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>290</Weight>
+		<Class>FR</Class>
+		<Hometown>Bellevue, WA</Hometown>
+	</Row>
+	<Row>
+		<Number>55</Number>
+		<Name>Jake Hanson</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>288</Weight>
+		<Class>FR</Class>
+		<Hometown>Eureka, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>55</Number>
+		<Name>A.J. Hotchkins</Name>
+		<Position>LB</Position>
+		<Category>Defense</Category>
+		<Height>5-11</Height>
+		<Weight>230</Weight>
+		<Class>JR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>56</Number>
+		<Name>Bryson Young</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-5</Height>
+		<Weight>230</Weight>
+		<Class>FR</Class>
+		<Hometown>Clovis, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>57</Number>
+		<Name>Doug Brenner</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>305</Weight>
+		<Class>JR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>58</Number>
+		<Name>Tanner Carew</Name>
+		<Position>LS</Position>
+		<Category>Special Teams</Category>
+		<Height>6-1</Height>
+		<Weight>215</Weight>
+		<Class>JR</Class>
+		<Hometown>Chino Hills, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>59</Number>
+		<Name>Riley Green</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>304</Weight>
+		<Class>FR</Class>
+		<Hometown>Gladstone, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>60</Number>
+		<Name>Logan Bathke</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>260</Weight>
+		<Class>FR</Class>
+		<Hometown>Orange, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>61</Number>
+		<Name>Valentino Daltoso</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>308</Weight>
+		<Class>FR</Class>
+		<Hometown>Boise, ID</Hometown>
+	</Row>
+	<Row>
+		<Number>63</Number>
+		<Name>Davis Miyashiro-Saipaia</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>300</Weight>
+		<Class>SO</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>64</Number>
+		<Name>Charlie Landgraf</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>290</Weight>
+		<Class>FR</Class>
+		<Hometown>Lakeville, CT</Hometown>
+	</Row>
+	<Row>
+		<Number>66</Number>
+		<Name>Brady Aiello</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-7</Height>
+		<Weight>275</Weight>
+		<Class>FR</Class>
+		<Hometown>Lafayette, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>66</Number>
+		<Name>Devin Melendez</Name>
+		<Position>LS</Position>
+		<Category>Special Teams</Category>
+		<Height>6-2</Height>
+		<Weight>205</Weight>
+		<Class>JR</Class>
+		<Hometown>La Habra, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>67</Number>
+		<Name>Ryan Phillipo</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>280</Weight>
+		<Class>FR</Class>
+		<Hometown>Eugene, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>68</Number>
+		<Name>Shane Lemieux</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>302</Weight>
+		<Class>FR</Class>
+		<Hometown>Yakima, WA</Hometown>
+	</Row>
+	<Row>
+		<Number>70</Number>
+		<Name>Zac Morgan</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-7</Height>
+		<Weight>280</Weight>
+		<Class>SR</Class>
+		<Hometown>Mokena, IL</Hometown>
+	</Row>
+	<Row>
+		<Number>71</Number>
+		<Name>Jacob Capra</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>300</Weight>
+		<Class>FR</Class>
+		<Hometown>Auburn, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>71</Number>
+		<Name>Wayne Tei-Kirby</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>315</Weight>
+		<Class>FR</Class>
+		<Hometown>Pocatello, ID</Hometown>
+	</Row>
+	<Row>
+		<Number>72</Number>
+		<Name>Sam Poutasi</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>330</Weight>
+		<Class>FR</Class>
+		<Hometown>Las Vegas, NV</Hometown>
+	</Row>
+	<Row>
+		<Number>73</Number>
+		<Name>Tyrell Crosby</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>310</Weight>
+		<Class>JR</Class>
+		<Hometown>Henderson, NV</Hometown>
+	</Row>
+	<Row>
+		<Number>74</Number>
+		<Name>Elijah George</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-5</Height>
+		<Weight>295</Weight>
+		<Class>JR</Class>
+		<Hometown>Las Vegas, NV</Hometown>
+	</Row>
+	<Row>
+		<Number>75</Number>
+		<Name>Zach Okun</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>310</Weight>
+		<Class>FR</Class>
+		<Hometown>Newbury Park, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>76</Number>
+		<Name>Jake Pisarcik</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>300</Weight>
+		<Class>JR</Class>
+		<Hometown>Medford, NJ</Hometown>
+	</Row>
+	<Row>
+		<Number>78</Number>
+		<Name>Cameron Hunt</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>295</Weight>
+		<Class>SR</Class>
+		<Hometown>Corona, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>79</Number>
+		<Name>Evan Voeller</Name>
+		<Position>OL</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>295</Weight>
+		<Class>JR</Class>
+		<Hometown>West Linn, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>80</Number>
+		<Name>Connor Berggren</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>185</Weight>
+		<Class>FR</Class>
+		<Hometown>West Linn, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>81</Number>
+		<Name>Evan Baylis</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>250</Weight>
+		<Class>SR</Class>
+		<Hometown>Centennial, CO</Hometown>
+	</Row>
+	<Row>
+		<Number>82</Number>
+		<Name>Casey Eugenio</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>5-8</Height>
+		<Weight>180</Weight>
+		<Class>SO</Class>
+		<Hometown>San Clemente, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>83</Number>
+		<Name>Johnny Mundt</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-4</Height>
+		<Weight>245</Weight>
+		<Class>SR</Class>
+		<Hometown>Modesto, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>84</Number>
+		<Name>Cam McCormick</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>230</Weight>
+		<Class>FR</Class>
+		<Hometown>Bend, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>85</Number>
+		<Name>Pharaoh Brown</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-6</Height>
+		<Weight>250</Weight>
+		<Class>SR</Class>
+		<Hometown>Lyndhurst, OH</Hometown>
+	</Row>
+	<Row>
+		<Number>86</Number>
+		<Name>Kyle Buckner</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-3</Height>
+		<Weight>185</Weight>
+		<Class>FR</Class>
+		<Hometown>Eastvale, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>86</Number>
+		<Name>Torrodney Prevot</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>225</Weight>
+		<Class>SR</Class>
+		<Hometown>Houston, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>87</Number>
+		<Name>Ben Thiel</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>5-10</Height>
+		<Weight>165</Weight>
+		<Class>JR</Class>
+		<Hometown>Celina, TX</Hometown>
+	</Row>
+	<Row>
+		<Number>88</Number>
+		<Name>Dwayne Stanford</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-5</Height>
+		<Weight>205</Weight>
+		<Class>SR</Class>
+		<Hometown>Cincinnati, OH</Hometown>
+	</Row>
+	<Row>
+		<Number>89</Number>
+		<Name>Dillon Mitchell</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>6-1</Height>
+		<Weight>190</Weight>
+		<Class>FR</Class>
+		<Hometown>Memphis, TN</Hometown>
+	</Row>
+	<Row>
+		<Number>90</Number>
+		<Name>Drayton Carlberg</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-5</Height>
+		<Weight>290</Weight>
+		<Class>FR</Class>
+		<Hometown>Minneapolis, MN</Hometown>
+	</Row>
+	<Row>
+		<Number>90</Number>
+		<Name>Brandon Gahagan</Name>
+		<Position>WR</Position>
+		<Category>Offense</Category>
+		<Height>5-10</Height>
+		<Weight>170</Weight>
+		<Class>FR</Class>
+		<Hometown>Las Vegas, NV</Hometown>
+	</Row>
+	<Row>
+		<Number>91</Number>
+		<Name>T.J. Daniel</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-6</Height>
+		<Weight>275</Weight>
+		<Class>SR</Class>
+		<Hometown>Oakland, CA</Hometown>
+	</Row>
+	<Row>
+		<Number>92</Number>
+		<Name>Henry Mondeaux</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-5</Height>
+		<Weight>280</Weight>
+		<Class>JR</Class>
+		<Hometown>Portland, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>93</Number>
+		<Name>Ratu Mafileo</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-3</Height>
+		<Weight>305</Weight>
+		<Class>JR</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+	<Row>
+		<Number>95</Number>
+		<Name>Drake Brennan</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-7</Height>
+		<Weight>260</Weight>
+		<Class>SO</Class>
+		<Hometown>Grants Pass, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>97</Number>
+		<Name>Jalen Jelks</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-6</Height>
+		<Weight>268</Weight>
+		<Class>SO</Class>
+		<Hometown>Phoenix, AZ</Hometown>
+	</Row>
+	<Row>
+		<Number>97</Number>
+		<Name>Jalonte Walker</Name>
+		<Position>TE</Position>
+		<Category>Offense</Category>
+		<Height>6-2</Height>
+		<Weight>235</Weight>
+		<Class>FR</Class>
+		<Hometown>Milwaukie, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>98</Number>
+		<Name>Jordan Kurahara</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-8</Height>
+		<Weight>250</Weight>
+		<Class>SO</Class>
+		<Hometown>Sherwood, OR</Hometown>
+	</Row>
+	<Row>
+		<Number>99</Number>
+		<Name>Canton Kaumatule</Name>
+		<Position>DL</Position>
+		<Category>Defense</Category>
+		<Height>6-7</Height>
+		<Weight>295</Weight>
+		<Class>SO</Class>
+		<Hometown>Honolulu, HI</Hometown>
+	</Row>
+</Root>
